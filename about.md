@@ -4,13 +4,16 @@ title: About
 permalink: /about/
 published: true
 ---
+## Interests
+- Clean code
+- Functional programming 
+- Testing
 
-Some information about you!
+## Languages
+ - Elm
+ - Clojure
+ - Haskell
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
+_Contact me_
 
 [66dash24@gmail.com](mailto:66dash24@gmail.com)
