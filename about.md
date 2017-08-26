@@ -13,4 +13,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email](mailto:66dash24@gmail.com)
+[66dash24@gmail.com](mailto:66dash24@gmail.com)
