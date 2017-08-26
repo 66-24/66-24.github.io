@@ -16,4 +16,4 @@ published: true
 
 _Contact me_
 
-[66dash24@gmail.com](mailto:66dash24@gmail.com)
+![email]({{site.baseurl}}/images/ic_email_black_24px.svg)[66dash24@gmail.com](mailto:66dash24@gmail.com)
