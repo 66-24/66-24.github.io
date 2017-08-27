@@ -5,13 +5,11 @@ permalink: /about/
 published: true
 ---
 ## Interests
-- Clean code
+- Code Clarity and Quality
 - Functional programming 
-- Testing
+
 
 ## Languages
  - Elm
  - Clojure
  - Haskell
-
-
